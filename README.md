@@ -17,3 +17,12 @@ https://tritrypdb.org/tritrypdb/app
 
 ### Files Information Metadata
 - GenomeDataTypes_Summary.csv
+
+## Tools
+orfFinder https://github.com/VEuPathDB/ApiCommonData/blob/master/Load/bin/orfFinder
+Mercator and MAVID https://github.com/VEuPathDB/ApiCommonData/blob/master/Load/bin/runMercator
+DNA repeats https://tandem.bu.edu/trf/home
+Signal peptide prediction https://services.healthtech.dtu.dk/services/SignalP-6.0/
+Transmembrane domain prediction https://services.healthtech.dtu.dk/services/TMHMM-2.0/
+tRNA gene prediction https://lowelab.ucsc.edu/tRNAscan-SE/
+OrthoMCL https://github.com/stajichlab/OrthoMCL
