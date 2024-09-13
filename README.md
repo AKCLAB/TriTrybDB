@@ -27,3 +27,4 @@ Signal peptide prediction https://services.healthtech.dtu.dk/services/SignalP-6.
 Transmembrane domain prediction https://services.healthtech.dtu.dk/services/TMHMM-2.0/
 tRNA gene prediction https://lowelab.ucsc.edu/tRNAscan-SE/
 OrthoMCL https://github.com/stajichlab/OrthoMCL
+pfam https://www.ebi.ac.uk/interpro/search/sequence/
