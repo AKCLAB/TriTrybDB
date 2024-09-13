@@ -15,8 +15,9 @@ https://tritrypdb.org/tritrypdb/app
 - Proteomics Methods-Proteomics.pdf
 - RNA sequences VEuPathDB RNA-Seq alignment.pdf
 
-### Files Information Metadata
+### Files metadata and studies
 - GenomeDataTypes_Summary.csv
+- AllDatasets_Summary.csv
 
 ## Tools
 orfFinder https://github.com/VEuPathDB/ApiCommonData/blob/master/Load/bin/orfFinder
